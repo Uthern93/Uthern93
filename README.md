@@ -11,8 +11,8 @@ With a keen eye for design and efficient coding, I thrive in solving complex pro
 
 <h2>⚙ My skills</h2>
 <ul>
-  <li>Language : HTML, CSS, JS, ReactJs, AngularJs, Laravel, Java, Python, C++, C#, Kotlin</li>
-  <li>Database management : MySQL, Google Firebase</li>
+  <li>Language : HTML, CSS, JS, VueJs, ReactJs, AngularJs, Laravel, Ruby on Rails</li>
+  <li>Database management : MySQL, PostgreSQL, Google Firebase</li>
 </ul>  
 
 <h2>➕ My Interests</h2>
@@ -23,7 +23,7 @@ With a keen eye for design and efficient coding, I thrive in solving complex pro
 
 <h2>🔍 Current Exploration</h2>
 <ul>
-  <li>Artificial Intelligence</li>
+  <li>Machine Learning & Artificial Intelligence</li>
 </ul>
 
 <h2>🌐 Connect with me</h2>
