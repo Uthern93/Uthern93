@@ -5,7 +5,7 @@
 
 <h2>🚀 About me</h2>
 
-<p>I’m a passionate full-time programmer and part-time IT student with a strong foundation in full-stack development. My technical expertise includes ReactJS, Angular, Laravel, and backend API development, with experience in creating dynamic, scalable web applications and Progressive Web Apps (PWA).
+<p>I’m a passionate full-time programmer and part-time IT student with a strong foundation in full-stack development. My technical expertise includes ReactJS, Angular, Laravel, NextJs and backend REST API development, with experience in creating dynamic, scalable web applications and Progressive Web Apps (PWA).
 
 With a keen eye for design and efficient coding, I thrive in solving complex problems and building user-centric applications. Balancing my studies and work, I constantly seek opportunities to grow both academically and professionally in the ever-evolving tech landscape.</p>
 
@@ -19,6 +19,7 @@ With a keen eye for design and efficient coding, I thrive in solving complex pro
 <ul>
   <li>Mobile Application Development</li>
   <li>Website Development (Full-stack)</li>
+  <li>Machine Learning</li>
 </ul>  
 
 <h2>🔍 Current Exploration</h2>
